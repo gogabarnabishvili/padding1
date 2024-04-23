@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+div {
+    width: 550px;
+    height: 550px;
+    border: 1px solid #ff0000;
+    background-color: #f9dfdf;
+    margin: 10px;
+    padding: 80px 0 0 103px;
+}
+p {
+    font-size: 16px;
+    font-weight: 700;
+    color: #ff0000;
+}
